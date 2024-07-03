@@ -1,0 +1,17 @@
+.Contact_text{
+    padding: 40px 120px;
+}
+
+.Contact_text h1{
+    font-size: 48px;
+    font-weight: 800;
+    margin-top: 40px;
+    line-height: 78px;
+    
+
+}
+
+.Contact_text p{
+    font-weight: 500;
+    color: #5A5959;
+}
